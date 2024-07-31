@@ -5,6 +5,6 @@ export async function productsData() {
     // "https://fakestoreapiserver.vercel.app/amazonproducts"
     "https://fakestoreapi.com/products"
   );
-  console.log("pr", products);
+  // console.log("pr", products);
   return products;
 }
